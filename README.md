@@ -85,7 +85,7 @@ If you found this project helpful, please ⭐ the repo!
 
 - **GitHub:** https://github.com/asthadixit1001-oss  
 - **LinkedIn:** linkedin.com/in/astha-dixit-27307633b  
-
+- **Email ID:** asthadixit1001 [at] gmail [dot] com
 ---
 
 ### ⭐ *Thank you for exploring my HR Analytics Dashboard!*
